@@ -9,8 +9,8 @@ CrewDirect eliminates middlemen in event staffing by providing a direct connecti
 ## Key Features
 
 ### For Event Organizers (Clients)
-- **Quick Event Posting**: Post events in under 2 minutes with detailed requirements
-- **Verified Staff Pool**: Access thousands of ID-verified event professionals
+- **Quick Event Posting**: Post events in under 2 minutes with detailed requirements.
+- **Verified Staff Pool**: Access thousands of ID-verified event professionals.
 - **Attendance Tracking**: GPS and QR code check-in/out system
 - **48-Hour Payment Rule**: Enforced payment timeline with account consequences
 - **Replacement Engine**: Fast staff replacement system for no-shows
